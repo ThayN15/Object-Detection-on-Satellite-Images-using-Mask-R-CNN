@@ -1,4 +1,4 @@
-# Object-Detection-in-Satellite-Images-using-Mask-R-CNN
+# Object-Detection-on-Satellite-Images-using-Mask-R-CNN
 
 This project is to detect ships on satellite images using Mask R-CNN which is a deep neural network used to solve instance segmentation problems. This generates bounding boxes and masks around each ship detected in the satellite image. 
 
